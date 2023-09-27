@@ -1,4 +1,4 @@
--- 👋 Hi, Sou Makson para muitos e MK para muitos poucos!
+-- 👋 Hi, Sou Makson para muitos e MK para muito poucos!
 - 👀 Sou estudande atualmente na área de Tecnico em Desenvolvimento de Sistemas na Instituição SENAI - Dendezeiros
 - 🌱 Tenho em vista o segmento de back-end e security mas, ainda preciso estudar muito para dar o melhor de mim em ambos os setores...
 
